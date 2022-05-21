@@ -8,6 +8,8 @@ body{
 }
 
 img{
+    max-width: 40%;
+    border-radius: 10px;
     display: block;
     margin: 50px auto; 
 }
